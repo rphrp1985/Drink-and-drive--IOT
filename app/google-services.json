@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193527069670",
+    "project_id": "safe-driving-alcohol-iot",
+    "storage_bucket": "safe-driving-alcohol-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193527069670:android:5a0cb2842334a441e63427",
+        "android_client_info": {
+          "package_name": "com.prianshu.safedriving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193527069670-nkj41vp5d93icfoc643e8mlgqftnb1b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-mpDBAINNQROg3cH_9ke57BdK0vdnKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193527069670-nkj41vp5d93icfoc643e8mlgqftnb1b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
