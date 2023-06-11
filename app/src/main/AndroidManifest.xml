@@ -17,10 +17,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SafeDriving"
         tools:targetApi="31">
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+
         <service
             android:name=".locationService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
 
         <activity
             android:name=".MainActivity2"
@@ -35,7 +39,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SafeDriving"></activity>
+            android:theme="@style/Theme.SafeDriving" />
     </application>
 
 </manifest>

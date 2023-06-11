@@ -46,6 +46,13 @@ class MainActivity2 : AppCompatActivity() {
 
         card.visibility= View.GONE
 
+        val b = findViewById<Button>(R.id.button)
+        b.setOnClickListener {
+
+            val i= Intent(this@MainActivity2, MainActivity3::class.java)
+            startActivity(i)
+
+        }
 
 
 
